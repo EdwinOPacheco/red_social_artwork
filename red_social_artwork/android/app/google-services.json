@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "728051142521",
+    "project_id": "artwork-91eae",
+    "storage_bucket": "artwork-91eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728051142521:android:c52285dabe13fdc5ab29a8",
+        "android_client_info": {
+          "package_name": "com.edwinnp.red_social_artwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728051142521-476g4eq11kf4dqjioftimoiruinim762.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edwinnp.red_social_artwork",
+            "certificate_hash": "4f99c73dad3db06abfd01346aa312242c163c4f4"
+          }
+        },
+        {
+          "client_id": "728051142521-oefjc9klh5d3p7oson114rv68ps29iqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2J2s_eDvchiugesZV0FmGs9IwN3UVc_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728051142521-oefjc9klh5d3p7oson114rv68ps29iqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
